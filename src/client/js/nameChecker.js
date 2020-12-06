@@ -12,3 +12,6 @@ function checkForName(inputText) {
         alert("Welcome, Captain!")
     }
 }
+
+// TODO: Export here
+export { checkForName }
